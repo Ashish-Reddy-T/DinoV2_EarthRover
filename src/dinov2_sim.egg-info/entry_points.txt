@@ -1,0 +1,2 @@
+[console_scripts]
+dinov2-search = dinov2_pipeline.cli:app

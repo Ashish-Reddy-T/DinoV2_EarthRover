@@ -1,0 +1,11 @@
+{
+  "video_path": "/Users/AshishR_T/Desktop/NonNYU/VIP/SelfDrive/testing/assets/demo_video.mp4",
+  "target_path": "/Users/AshishR_T/Desktop/NonNYU/VIP/SelfDrive/testing/assets/demo_target.png",
+  "inserted_frames": [
+    0,
+    6,
+    12,
+    18
+  ],
+  "fps": 6
+}

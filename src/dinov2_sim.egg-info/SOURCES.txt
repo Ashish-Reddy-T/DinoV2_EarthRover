@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/dinov2_pipeline/__init__.py
+src/dinov2_pipeline/cli.py
+src/dinov2_pipeline/extractor.py
+src/dinov2_pipeline/video_search.py
+src/dinov2_sim.egg-info/PKG-INFO
+src/dinov2_sim.egg-info/SOURCES.txt
+src/dinov2_sim.egg-info/dependency_links.txt
+src/dinov2_sim.egg-info/entry_points.txt
+src/dinov2_sim.egg-info/requires.txt
+src/dinov2_sim.egg-info/top_level.txt
+tests/test_video_search.py
